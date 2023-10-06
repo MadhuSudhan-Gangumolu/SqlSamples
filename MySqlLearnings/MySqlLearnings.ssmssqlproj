@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="localhost\SQLEXPRESS:MADHU\madhu">
+        <ConnectionNode Name="localhost\SQLEXPRESS:COGNINE-L196\Madhu Gangumolu">
           <Created>2023-10-04T22:09:49.0398506+05:30</Created>
           <Type>SQL</Type>
           <Server>localhost\SQLEXPRESS</Server>
@@ -19,29 +19,59 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="DatabaseScripts.sql">
+        <FileNode Name="1DatabaseScripts.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>DatabaseScripts.sql</FullPath>
+          <FullPath>1DatabaseScripts.sql</FullPath>
         </FileNode>
-        <FileNode Name="DataTypes.sql">
+        <FileNode Name="2TABLE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>DataTypes.sql</FullPath>
+          <FullPath>2TABLE.sql</FullPath>
         </FileNode>
-        <FileNode Name="DDL.sql">
+        <FileNode Name="3DDL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>DDL.sql</FullPath>
+          <FullPath>3DDL.sql</FullPath>
         </FileNode>
-        <FileNode Name="TABLE.sql">
+        <FileNode Name="4DataTypes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>TABLE.sql</FullPath>
+          <FullPath>4DataTypes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5Constraints.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5Constraints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6CascadingReferencialIntegrity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6CascadingReferencialIntegrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7IdentityColumn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7IdentityColumn.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8LastGeneratedId.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8LastGeneratedId.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9Sequences.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9Sequences.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
