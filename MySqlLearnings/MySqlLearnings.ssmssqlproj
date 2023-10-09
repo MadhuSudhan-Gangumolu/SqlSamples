@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="localhost\SQLEXPRESS:COGNINE-L196\Madhu Gangumolu">
+        <ConnectionNode Name="localhost\SQLEXPRESS:MADHU\madhu">
           <Created>2023-10-04T22:09:49.0398506+05:30</Created>
           <Type>SQL</Type>
           <Server>localhost\SQLEXPRESS</Server>
@@ -36,6 +36,18 @@
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>12HavingClause.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13AssignmentOperator.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13AssignmentOperator.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14SetOperations.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14SetOperations.sql</FullPath>
         </FileNode>
         <FileNode Name="1DatabaseScripts.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
