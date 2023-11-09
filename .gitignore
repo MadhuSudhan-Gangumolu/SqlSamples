@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SqlSamples/FileContentIndex
+/.vs/SqlSamples/v17
+/.vs/slnx.sqlite
+*.json
+/.vs/MySqlLearnings/v15/.ssms_suo

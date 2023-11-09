@@ -3,7 +3,19 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="localhost\SQLEXPRESS:MADHU\madhu">
+        <ConnectionNode Name="localhost:COGNINE-L196\Madhu Gangumolu">
+          <Created>2023-11-09T11:35:29.4746999+05:30</Created>
+          <Type>SQL</Type>
+          <Server>localhost</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="localhost\SQLEXPRESS:COGNINE-L196\Madhu Gangumolu">
           <Created>2023-10-04T22:09:49.0398506+05:30</Created>
           <Type>SQL</Type>
           <Server>localhost\SQLEXPRESS</Server>
@@ -96,6 +108,30 @@
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>21NonClusturedIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22BuiltInFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22BuiltInFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23OverFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23OverFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24RowNumber.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24RowNumber.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25RankAndDenseRank.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25RankAndDenseRank.sql</FullPath>
         </FileNode>
         <FileNode Name="2TABLE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
