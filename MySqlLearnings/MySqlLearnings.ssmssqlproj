@@ -133,11 +133,53 @@
           <AssociatedConnUserName />
           <FullPath>25RankAndDenseRank.sql</FullPath>
         </FileNode>
+        <FileNode Name="26SProc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26SProc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27SpReturnValue.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>27SpReturnValue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28SPEncryption.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28SPEncryption.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29ScalarValueFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29ScalarValueFunctions.sql</FullPath>
+        </FileNode>
         <FileNode Name="2TABLE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>localhost\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>2TABLE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30InlineTableValueFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30InlineTableValueFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31MultiStatementValueFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>31MultiStatementValueFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32FunctionEncryptionAndBinding.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>32FunctionEncryptionAndBinding.sql</FullPath>
         </FileNode>
         <FileNode Name="3DDL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost\SQLEXPRESS:True</AssociatedConnectionMoniker>
